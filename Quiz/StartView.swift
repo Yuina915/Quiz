@@ -25,7 +25,7 @@ struct StartView: View {
                         .clipShape(.rect(cornerRadius: 10))
                         
                 }
-                
+                 
                 Spacer()
             }
         }

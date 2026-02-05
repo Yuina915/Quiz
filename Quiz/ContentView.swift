@@ -1,7 +1,7 @@
 import SwiftUI
 
 // MARK: - Data Model
-struct QuizItem {
+struct QuizItem { 
     let question: String
     let options: [String] // 選択肢は3つ
     let correctAnswerIndex: Int // 正解の選択肢のインデックス（配列の要素番号）

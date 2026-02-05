@@ -1,5 +1,5 @@
 import SwiftUI
-
+ 
 struct ResultView: View {
     @Binding var currentScreen: Screen
     @Binding var score: Int

@@ -1,5 +1,5 @@
 import SwiftUI
-
+ 
 struct QuizView: View {
     @Binding var currentScreen: Screen
     @Binding var score: Int
